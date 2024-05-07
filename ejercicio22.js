@@ -1,0 +1,1 @@
+// Ejercicio 22 Imprimir los primeros 10 términos de la serie de Fibonacci.
